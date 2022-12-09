@@ -464,6 +464,11 @@
   .u-section-1 .u-image-2 {
     width: 226px;
     height: 227px;
+    --animation-custom_in-translate_x: 0px;
+    --animation-custom_in-translate_y: 0px;
+    --animation-custom_in-opacity: 0;
+    --animation-custom_in-rotate: 180deg;
+    --animation-custom_in-scale: 1;
     margin-top: -63px;
     margin-right: auto;
   }
@@ -478,8 +483,7 @@
     width: 224px;
     height: 228px;
     margin-top: 44px;
-    margin-right: auto;
-    margin-left: 218px;
+    margin-right: calc(((100% - 340px) / 2) + -54px);
   }
 
   .u-section-1 .u-image-5 {
@@ -491,110 +495,111 @@
 
   .u-section-1 .u-image-6 {
     margin-top: 73px;
-    margin-right: calc(((100% - 340px) / 2) + 23px);
+    margin-right: calc(((100% - 340px) / 2) + 7px);
   }
 
   .u-section-1 .u-image-7 {
-    margin-right: calc(((100% - 340px) / 2) + -16px);
+    margin-right: calc(((100% - 340px) / 2) + -32px);
   }
 
   .u-section-1 .u-image-8 {
-    margin-right: calc(((100% - 340px) / 2) + 15px);
+    margin-right: calc(((100% - 340px) / 2) + -1px);
   }
 
   .u-section-1 .u-image-9 {
-    margin-right: calc(((100% - 340px) / 2) + 29px);
+    margin-right: calc(((100% - 340px) / 2) + 13px);
   }
 
   .u-section-1 .u-image-10 {
     margin-top: 723px;
-    margin-left: calc(((100% - 340px) / 2) + -18px);
+    margin-left: calc(((100% - 340px) / 2) + -36px);
   }
 
   .u-section-1 .u-image-11 {
     margin-top: -742px;
-    margin-right: calc(((100% - 340px) / 2) + 70px);
+    margin-right: calc(((100% - 340px) / 2) + 47px);
   }
 
   .u-section-1 .u-image-12 {
     margin-top: 37px;
-    margin-right: calc(((100% - 340px) / 2) + 48px);
+    margin-right: calc(((100% - 340px) / 2) + 30px);
   }
 
   .u-section-1 .u-image-13 {
     margin-top: -629px;
-    margin-left: calc(((100% - 340px) / 2) + -29px);
+    margin-left: calc(((100% - 340px) / 2) + 10px);
   }
 
   .u-section-1 .u-image-14 {
-    margin-left: calc(((100% - 340px) / 2) + -1px);
+    margin-left: calc(((100% - 340px) / 2) + 37px);
   }
 
   .u-section-1 .u-image-15 {
-    margin-left: calc(((100% - 340px) / 2) + -15px);
+    margin-top: 134px;
+    margin-left: calc(((100% - 340px) / 2) + 23px);
   }
 
   .u-section-1 .u-image-16 {
-    margin-top: 561px;
-    margin-left: calc(((100% - 340px) / 2) + -18px);
+    margin-top: 458px;
+    margin-left: calc(((100% - 340px) / 2) + 6px);
   }
 
   .u-section-1 .u-image-17 {
     margin-top: -477px;
-    margin-left: calc(((100% - 340px) / 2) + 1px);
+    margin-left: calc(((100% - 340px) / 2) + 39px);
   }
 
   .u-section-1 .u-image-18 {
     margin-top: 53px;
-    margin-left: calc(((100% - 340px) / 2));
+    margin-left: calc(((100% - 340px) / 2) + 39px);
   }
 
   .u-section-1 .u-image-19 {
     margin-top: 46px;
-    margin-left: calc(((100% - 340px) / 2) + 9px);
+    margin-left: calc(((100% - 340px) / 2) + 47px);
   }
 
   .u-section-1 .u-image-20 {
-    margin-top: -457px;
+    margin-top: -552px;
     margin-right: auto;
-    margin-left: calc(((100% - 340px) / 2) + -17px);
+    margin-left: calc(((100% - 340px) / 2) + 7px);
   }
 
   .u-section-1 .u-image-21 {
-    margin-top: 552px;
+    margin-top: 647px;
     margin-right: auto;
-    margin-left: calc(((100% - 340px) / 2) + -18px);
+    margin-left: calc(((100% - 340px) / 2) + 12px);
   }
 
   .u-section-1 .u-image-22 {
     margin-top: 46px;
     margin-right: auto;
-    margin-left: calc(((100% - 340px) / 2) + -17px);
+    margin-left: calc(((100% - 340px) / 2) + 5px);
   }
 
   .u-section-1 .u-image-23 {
-    margin-top: -72px;
-    margin-right: calc(((100% - 340px) / 2) + 46px);
+    margin-top: -58px;
+    margin-right: calc(((100% - 340px) / 2) + 31px);
   }
 
   .u-section-1 .u-image-24 {
-    margin-top: -689px;
-    margin-right: calc(((100% - 340px) / 2) + -37px);
+    margin-top: -363px;
+    margin-right: calc(((100% - 340px) / 2) + 54px);
   }
 
   .u-section-1 .u-image-25 {
-    margin-top: 321px;
-    margin-right: calc(((100% - 340px) / 2) + 46px);
+    margin-top: 21px;
+    margin-right: calc(((100% - 340px) / 2) + 29px);
   }
 
   .u-section-1 .u-image-26 {
-    margin-top: -193px;
-    margin-right: calc(((100% - 340px) / 2) + 17px);
+    margin-top: -246px;
+    margin-right: calc(((100% - 340px) / 2) + -6px);
   }
 
   .u-section-1 .u-image-27 {
-    margin-top: 186px;
-    margin-right: calc(((100% - 340px) / 2) + 60px);
+    margin-top: 199px;
+    margin-right: calc(((100% - 340px) / 2) + 42px);
     margin-bottom: 60px;
   }
 }
